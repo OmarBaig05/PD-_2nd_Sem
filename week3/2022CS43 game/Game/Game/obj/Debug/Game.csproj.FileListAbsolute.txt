@@ -1,0 +1,20 @@
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\bin\Debug\Game.exe.config
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\bin\Debug\Game.exe
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\bin\Debug\Game.pdb
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\obj\Debug\Game.exe
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\obj\Debug\Game.pdb
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\bin\Debug\EZInput.dll
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\bin\Debug\EZInput.xml
+D:\Study\2nd SEMESTER\PD\week 1\Game c sharp\Game\Game\obj\Debug\Game.csproj.CopyComplete
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\bin\Debug\Game.exe.config
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\bin\Debug\Game.exe
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\bin\Debug\Game.pdb
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\bin\Debug\EZInput.dll
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\bin\Debug\EZInput.xml
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\obj\Debug\Game.csproj.CopyComplete
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\obj\Debug\Game.exe
+D:\Study\2nd SEMESTER\PD\week2\Game c sharp\Game\Game\obj\Debug\Game.pdb

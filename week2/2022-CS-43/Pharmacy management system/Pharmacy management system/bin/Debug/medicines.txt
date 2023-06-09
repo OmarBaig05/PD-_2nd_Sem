@@ -1,0 +1,12 @@
+panadol,12,12,12
+brufen,12,13,12
+sample,12,12,12
+sampl1,12,12,12
+panadol,12,12,12
+anonymous,54,54,54
+panadol,12,12,12
+panadol,1,100,1
+panadol,12,12,12
+omar,12,12,12
+nothing,12,12,12
+panadol,12,12,12

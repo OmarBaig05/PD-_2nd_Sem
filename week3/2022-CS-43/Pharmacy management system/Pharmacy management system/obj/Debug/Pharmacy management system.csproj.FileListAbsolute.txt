@@ -1,0 +1,35 @@
+C:\Users\omarb\source\repos\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe.config
+C:\Users\omarb\source\repos\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe
+C:\Users\omarb\source\repos\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.pdb
+C:\Users\omarb\source\repos\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.AssemblyReference.cache
+C:\Users\omarb\source\repos\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.CoreCompileInputs.cache
+C:\Users\omarb\source\repos\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.exe
+C:\Users\omarb\source\repos\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week 1\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe.config
+D:\Study\2nd SEMESTER\PD\week 1\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week 1\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week 1\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\PD\week 1\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\PD\week 1\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week 1\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week 1\Business application\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe.config
+D:\Study\2nd SEMESTER\PD\week 1\Business application\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week 1\Business application\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week 1\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\PD\week 1\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\PD\week 1\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week 1\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week2\Business application\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe.config
+D:\Study\2nd SEMESTER\PD\week2\Business application\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week2\Business application\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week2\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\PD\week2\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\PD\week2\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week2\Business application\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week2\2022-CS-43\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe.config
+D:\Study\2nd SEMESTER\PD\week2\2022-CS-43\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week2\2022-CS-43\Pharmacy management system\Pharmacy management system\bin\Debug\Pharmacy management system.pdb
+D:\Study\2nd SEMESTER\PD\week2\2022-CS-43\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\PD\week2\2022-CS-43\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\PD\week2\2022-CS-43\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.exe
+D:\Study\2nd SEMESTER\PD\week2\2022-CS-43\Pharmacy management system\Pharmacy management system\obj\Debug\Pharmacy management system.pdb

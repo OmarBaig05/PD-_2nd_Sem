@@ -1,0 +1,14 @@
+D:\Study\2nd SEMESTER\OOP class\week 5\Ocean MS\Ocean MS\bin\Debug\Ocean MS.exe.config
+D:\Study\2nd SEMESTER\OOP class\week 5\Ocean MS\Ocean MS\bin\Debug\Ocean MS.exe
+D:\Study\2nd SEMESTER\OOP class\week 5\Ocean MS\Ocean MS\bin\Debug\Ocean MS.pdb
+D:\Study\2nd SEMESTER\OOP class\week 5\Ocean MS\Ocean MS\obj\Debug\Ocean MS.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\OOP class\week 5\Ocean MS\Ocean MS\obj\Debug\Ocean MS.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\OOP class\week 5\Ocean MS\Ocean MS\obj\Debug\Ocean MS.exe
+D:\Study\2nd SEMESTER\OOP class\week 5\Ocean MS\Ocean MS\obj\Debug\Ocean MS.pdb
+D:\Study\2nd SEMESTER\PD\week4\Ocean MS\Ocean MS\bin\Debug\Ocean MS.exe.config
+D:\Study\2nd SEMESTER\PD\week4\Ocean MS\Ocean MS\bin\Debug\Ocean MS.exe
+D:\Study\2nd SEMESTER\PD\week4\Ocean MS\Ocean MS\bin\Debug\Ocean MS.pdb
+D:\Study\2nd SEMESTER\PD\week4\Ocean MS\Ocean MS\obj\Debug\Ocean MS.csproj.AssemblyReference.cache
+D:\Study\2nd SEMESTER\PD\week4\Ocean MS\Ocean MS\obj\Debug\Ocean MS.csproj.CoreCompileInputs.cache
+D:\Study\2nd SEMESTER\PD\week4\Ocean MS\Ocean MS\obj\Debug\Ocean MS.exe
+D:\Study\2nd SEMESTER\PD\week4\Ocean MS\Ocean MS\obj\Debug\Ocean MS.pdb
